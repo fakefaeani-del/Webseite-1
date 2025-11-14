@@ -1,0 +1,21 @@
+.Oben{
+    background-image: url("Leo1.jpg");
+    background-size: cover;
+    padding: 15% 10%;
+}
+h2{
+    text-align: center;
+}
+.Linie{
+    background: black;
+    width: 100%;
+    height: 5px;
+}
+body{
+    background-color: lightgray;
+}
+.Mitteltext{
+    font-size: 88%;
+    font-weight: bold;
+    
+}
